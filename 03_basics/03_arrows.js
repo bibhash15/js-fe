@@ -13,7 +13,7 @@ const user = {
 // user.username = "sam"
 // user.welcomeMessage()
 
-// console.log(this);
+// console.log(this);  {}  -- idhr yeh mtlb empty object ayega aur browser p window object ayega , browser p global variable window hai 
 
 // function chai(){
 //     let username = "hitesh"
